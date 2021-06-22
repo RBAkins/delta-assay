@@ -12,7 +12,7 @@ General Procedure:
 	e. Find the average displacement between the centroids in the x and y direction.
 	f. FROM 4 CONTROL CELLS: X DISP 0.4114; Y DISP 1.626
 3. Run TransformJ Plugin on all Cy5 cells using DeltaRegister.ijm
-------------------LINE SCAN------------------
-4. Run LineScan.ijm on a folder with GFP and registered Cy5 images.
-------------------CURVE FIT------------------
-5. Run Kinetochore Protein Fit.py on all line scans above. Output in Line Scan Fit Separations.csv.
+4. ------------------LINE SCAN------------------
+5. Run LineScan.ijm on a folder with GFP and registered Cy5 images.
+6. ------------------CURVE FIT------------------
+7. Run Kinetochore Protein Fit.py on all line scans above. Output in Line Scan Fit Separations.csv.
