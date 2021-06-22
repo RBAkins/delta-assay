@@ -1,5 +1,5 @@
 # delta-assay
-ImageJ Macro and Python code files for performing a delta assay to calculate intrakinetochore subpixel protein distances. Using established protocol from Wan et al., 2014, "Protein architecture of the human kinetochore microtubule attachment site."
+ImageJ Macro and Python code files for performing a delta assay to calculate intrakinetochore subpixel protein distances. Using established protocol from Wan et al., 2014, "Protein architecture of the human kinetochore microtubule attachment site." Archived 22 June 2021.
 General Procedure:
 1. Create max projections of each file using the macro DeltaMaxProject.ijm
 2. ------------------REGISTRATION------------------
